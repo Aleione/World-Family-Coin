@@ -1,5 +1,7 @@
-TRUFFLE FRAMEWORK SETTINGS:
+World Family Coin
+ERC20 Token for decentralised donation platform
 
+TRUFFLE FRAMEWORK SETTINGS:
 
 TRUFFLE INSTALLATION:
 
