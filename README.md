@@ -1,5 +1,5 @@
-World Family Coin
-ERC20 Token for decentralised donation platform
+PuzzleWorld
+Logical gaming dapp with dispute resolution
 
 TRUFFLE FRAMEWORK SETTINGS:
 
