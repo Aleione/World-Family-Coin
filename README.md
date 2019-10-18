@@ -1,5 +1,6 @@
 # World-Family-Coin
 WFC ERC20 token for donation platform
+
 TRUFFLE FRAMEWORK SETTINGS:
 
 TRUFFLE INSTALLATION:
