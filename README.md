@@ -1,8 +1,9 @@
 # World-Family-Coin
 WFC ERC20 token for donation platform
 
-TRUFFLE FRAMEWORK SETTINGS:
+Creation of WFC ERC20 token + creation of vesting contracts to gradually release tokens for team and members of the team  + multisg wallet erc20 compatible for the team
 
+-----------------------------------------------------------------------------------------------------------------------
 TRUFFLE INSTALLATION:
 
 Install Node.js (download at https://github.com/nodesource/distributions/blob/master/README.md for linux dist and https://nodejs.org/it/download/ for Windows or MacOs)
