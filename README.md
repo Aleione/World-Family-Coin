@@ -1,7 +1,9 @@
 # World-Family-Coin
 WFC ERC20 token for donation platform
 
-Creation of WFC ERC20 token + creation of vesting contracts to gradually release tokens for team and members of the team  + multisg wallet erc20 compatible for the team
+1)Creation of WFC ERC20 token + creation of vesting contracts to gradually release tokens for team and members of the team  + multisg   wallet erc20 compatible for the team
+
+2) Truffle mocha testings
 
 -----------------------------------------------------------------------------------------------------------------------
 TRUFFLE INSTALLATION:
